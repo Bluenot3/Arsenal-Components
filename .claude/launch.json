@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "orbital-scanner",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "C:\\Users\\AlexT\\OneDrive\\Desktop\\ARSNL\\Components\\start-dev.cmd"],
+      "port": 5173
+    }
+  ]
+}
