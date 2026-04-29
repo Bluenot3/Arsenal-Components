@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npx pnpm install --no-frozen-lockfile && npx pnpm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "installCommand": "npx pnpm install --no-frozen-lockfile"
+}
